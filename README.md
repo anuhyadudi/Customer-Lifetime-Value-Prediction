@@ -14,14 +14,6 @@ and wasted marketing spend.
 
 ---
 
-## 📁 Dataset
-- **Source:** UCI Online Retail II
-- **Size:** 1,067,371 transactions
-- **Period:** 2009 - 2011
-- **Customers:** 5,878 unique (after cleaning)
-
----
-
 ## 🧹 Data Cleaning Decisions
 
 | Issue | Action | Justification |
